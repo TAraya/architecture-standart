@@ -1,1 +1,9 @@
-# architecture-standart
+## Задание 1
+
+### Карта текущего IT-ландшафта
+
+![text](./Task1/business-cap-map.png)
+
+### Схема интеграции приложений с указанием участников процессов
+
+![text](./Task1/integration.png)
