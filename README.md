@@ -6,8 +6,12 @@
 
 ### Схема интеграции приложений с указанием участников процессов
 
-![text](./Task1/integration.png)
+![integration](./Task1/integration.png)
 
 ## Задание 2
 
-![FURPS+ таблица](./Task2/FURPS+.md)
+См. **/Task2**
+
+## Задание 3
+
+См. **/Task3**
